@@ -53,6 +53,8 @@ def bfs(initialState, endState):
 
 if __name__ == "__main__":
 
+    print("Lorenzo Frescobaldi - Brighton College \n")
+
     initialGameIn = input("> ")
     endGameIn = input("> ")
 
