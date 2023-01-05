@@ -26,4 +26,5 @@ def zeckendorf(inputN):
 if __name__ == "__main__":
 
     print("Lorenzo Frescobaldi - Brighton College \n")
-    print(Zeckendorf(int(input("> "))))
+
+    print(zeckendorf(int(input("> "))))
